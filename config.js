@@ -13,3 +13,4 @@ const CONFIG = {
     messDesc: ' Đỗ ĐH nha! ',
     btnAccept: ' =))) ',
     messLink: 'https://www.facebook.com/manmailinhhh'
+}
